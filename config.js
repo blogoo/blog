@@ -1,5 +1,5 @@
 const config = {
-    projectName: 'photo',
+    projectName: 'blog',
     title: '博客',
     favicon: 'img/favicon.ico',
     logo: 'img/logo.png',
